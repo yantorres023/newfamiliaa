@@ -1,0 +1,153 @@
+[
+  {
+    "routine_id": "84e43b26-2252-476f-8deb-3f18d6f7e3b8",
+    "agent_id": "agent-ac8ae555-61af-427e-a873-44b09a6a7fe5",
+    "name": "Radar de IA — checagem oficial",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "advanced",
+        "months": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "days": {
+          "kind": "every-day"
+        },
+        "time": {
+          "kind": "every",
+          "amount": 12,
+          "unit": "hours"
+        }
+      }
+    ]
+  },
+  {
+    "routine_id": "9805880c-7ed2-43ed-87cb-1e6d1b5665f6",
+    "agent_id": "agent-0ae99cc4-0ac6-401e-aaf8-b41072404dc0",
+    "name": "Retomar convites Arthur somente Opus",
+    "active": 0,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "run-once",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "once",
+        "date": "2026-10-27",
+        "time": "23:56"
+      }
+    ]
+  },
+  {
+    "routine_id": "f89e2ccc-f841-4bee-b29f-0aa68351cc93",
+    "agent_id": "agent-8c4813fd-210b-491a-bca6-7b69c4555672",
+    "name": "Briefing da manhã 08:00",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "daily",
+        "time": "08:00"
+      }
+    ]
+  },
+  {
+    "routine_id": "bdbdd7b9-75d7-43a0-8cdf-3bd024ba8b13",
+    "agent_id": "agent-a019f0ae-3851-46b3-9ec2-92f287cbdd33",
+    "name": "Triagem de e-mail 07:30",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "daily",
+        "time": "07:30"
+      }
+    ]
+  },
+  {
+    "routine_id": "0fd9bc2a-ded8-4344-8462-97770f0d508e",
+    "agent_id": "agent-a019f0ae-3851-46b3-9ec2-92f287cbdd33",
+    "name": "Triagem de e-mail 12:00",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "daily",
+        "time": "12:00"
+      }
+    ]
+  },
+  {
+    "routine_id": "bbeb30c1-3968-4cc1-95be-47f523e50e0e",
+    "agent_id": "agent-a019f0ae-3851-46b3-9ec2-92f287cbdd33",
+    "name": "Triagem de e-mail 16:00",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "daily",
+        "time": "16:00"
+      }
+    ]
+  },
+  {
+    "routine_id": "449299ff-f31d-4343-88fd-9e4e7980e8b1",
+    "agent_id": "agent-a019f0ae-3851-46b3-9ec2-92f287cbdd33",
+    "name": "Triagem de e-mail 20:00",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "daily",
+        "time": "20:00"
+      }
+    ]
+  },
+  {
+    "routine_id": "367bda9f-de98-4188-a033-376c13a847f1",
+    "agent_id": "agent-b5312de8-1134-4e80-83eb-884fa5a9b567",
+    "name": "Resumo semanal de uso e custo",
+    "active": 1,
+    "timezone": "America/Sao_Paulo",
+    "limit_policy": "wait",
+    "missed_policy": "skip",
+    "owner_type": "agent",
+    "schedules": [
+      {
+        "kind": "weekly",
+        "weekday": 0,
+        "time": "18:00"
+      }
+    ]
+  }
+]

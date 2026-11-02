@@ -1,0 +1,22 @@
+[
+  {
+    "name": "notion",
+    "transport": "http",
+    "enabled": 1
+  },
+  {
+    "name": "vercel",
+    "transport": "http",
+    "enabled": 1
+  },
+  {
+    "name": "supabase",
+    "transport": "http",
+    "enabled": 1
+  },
+  {
+    "name": "cloudflare",
+    "transport": "http",
+    "enabled": 1
+  }
+]

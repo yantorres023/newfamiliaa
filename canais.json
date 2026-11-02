@@ -1,0 +1,267 @@
+[
+  {
+    "id": "dd259483-b9cd-42e7-9827-e1b5a4d5cb5d",
+    "name": "Agência",
+    "title": "Clientes: estratégia digital, sites, design e redes",
+    "instructions": "Canal da agência. Woody é o gerente: monta o plano por fases do cliente e divide com channel_assign. Edward: sites. Deidara: visual. Temari: conteúdo. Toda decisão de design ou site vai ao Yan como exatamente 3 opções. Nada é publicado e ninguém fala com cliente sem aprovação do Yan. Dados do negócio que faltam ficam como 'pendente'. Entregas aprovadas vão para a Sheska.",
+    "leadAgentId": "agent-075c90db-9e84-4d6d-a82d-dcdd36ad050d",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-075c90db-9e84-4d6d-a82d-dcdd36ad050d"
+      },
+      {
+        "agentId": "agent-60731890-285f-454d-af44-4f3751414994"
+      },
+      {
+        "agentId": "agent-49b69591-5325-41ae-98a7-bb265cb2576f"
+      },
+      {
+        "agentId": "agent-397b3c84-0289-4ac0-9651-def8b2d32629"
+      }
+    ]
+  },
+  {
+    "id": "f7631125-0331-4ab3-aa7a-47e9b4c86400",
+    "name": "Dados e Memória",
+    "title": "Notion, documentos, dados, logs e retomada",
+    "instructions": "Canal de dados e memória. Sheska é a gerente: arquiva no Notion, guarda decisões e divide com channel_assign. Konan: documentos. Neji: planilhas e SQL. Groot: ponto de retomada. Shino: uso, custo e métricas. Import Bot: trazer setups de outras ferramentas. Originais nunca são apagados. Nada de número de conta, cartão ou senha em notas.",
+    "leadAgentId": "agent-b1ce790b-ab9c-4460-99d8-f00650c4365b",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-b1ce790b-ab9c-4460-99d8-f00650c4365b"
+      },
+      {
+        "agentId": "agent-1f3da9b9-3589-4e61-b2fd-70a9e97097e4"
+      },
+      {
+        "agentId": "agent-64deca5f-a225-4402-9335-9dee86f9e1e5"
+      },
+      {
+        "agentId": "agent-65f45495-2ebe-4bfb-b936-76594c3b02f4"
+      },
+      {
+        "agentId": "agent-b5312de8-1134-4e80-83eb-884fa5a9b567"
+      }
+    ]
+  },
+  {
+    "id": "b658ab06-2b7f-4de2-9679-c7b28c93d657",
+    "name": "Diretoria",
+    "title": "CEO e gerentes, para pedidos que cruzam áreas",
+    "instructions": "Canal da diretoria. Aqui a conversa é como numa empresa de verdade: cada bot tem nome, área e jeito próprio, e fala em pt-BR, de forma natural e curta. O Mustang é o diretor geral: em conversa casual responde em personagem e pode chamar no máximo 1 gerente para comentar; em pedido de trabalho, divide entre os gerentes com channel_assign, junta tudo e entrega uma resposta só ao Yan. Gerentes falam pela própria área, em até 3 frases, e podem puxar membros no canal da área. Ninguém inventa andamento de trabalho. Entregas importantes passam pela Revisão antes de valer. Produção, segredos, dinheiro e ações destrutivas só com aprovação explícita do Yan. Números financeiros nunca aparecem aqui.",
+    "leadAgentId": "agent-0ae99cc4-0ac6-401e-aaf8-b41072404dc0",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-0ae99cc4-0ac6-401e-aaf8-b41072404dc0"
+      },
+      {
+        "agentId": "agent-3f860551-ad89-41c1-8310-80e909abb73c"
+      },
+      {
+        "agentId": "agent-075c90db-9e84-4d6d-a82d-dcdd36ad050d"
+      },
+      {
+        "agentId": "agent-185b07ae-9964-4f6e-a24e-b6ca52b666e3"
+      },
+      {
+        "agentId": "agent-5a7f2925-c244-48e7-943c-9291c6dfe996"
+      },
+      {
+        "agentId": "agent-ca05f528-e81c-40fa-b7fe-2c78a62dab08"
+      },
+      {
+        "agentId": "agent-1534b53d-e5c1-4d54-aedb-955082ab009a"
+      },
+      {
+        "agentId": "agent-70a915c4-835a-405f-95bf-be97faf19fe7"
+      },
+      {
+        "agentId": "agent-2b4b9aa8-2d7f-4bb3-94a7-0fcc48e92f18"
+      },
+      {
+        "agentId": "agent-b1ce790b-ab9c-4460-99d8-f00650c4365b"
+      },
+      {
+        "agentId": "agent-8c4813fd-210b-491a-bca6-7b69c4555672"
+      }
+    ]
+  },
+  {
+    "id": "ab3e7d64-a04f-451d-abe2-b8cddaa1e80d",
+    "name": "Engenharia",
+    "title": "Construção, automações, manutenção e bugs",
+    "instructions": "Canal de engenharia. Rocky é o gerente: divide o trabalho com channel_assign e entrega o resultado provado. Naruto: tarefas gerais. Rocket: scripts e protótipos. Buzz: máquinas remotas, só por rota aprovada. Orochimaru: experimentos isolados. Kabuto: manutenção e backups. Judy: bugs e causa raiz. Toda entrega mostra comando e saída. Deploy, push na main, credenciais, sudo e ação destrutiva só com aprovação do Yan. O que for importante passa pela Revisão.",
+    "leadAgentId": "agent-5a7f2925-c244-48e7-943c-9291c6dfe996",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-5a7f2925-c244-48e7-943c-9291c6dfe996"
+      },
+      {
+        "agentId": "agent-5dbac844-5234-46c4-8d29-a81059ccc2de"
+      },
+      {
+        "agentId": "agent-21ee8ffa-3ef0-47f8-91a0-af9d2f231ac2"
+      },
+      {
+        "agentId": "agent-ed244c67-a7c8-483a-b229-82fbc3719c23"
+      },
+      {
+        "agentId": "agent-9693ccbe-7623-48d3-a55c-625e978af3c3"
+      },
+      {
+        "agentId": "agent-0fa2c439-0e2b-4dc7-9dd2-4e06d0bc47bc"
+      },
+      {
+        "agentId": "agent-0a66d7e4-dc71-4e95-b91d-88d695e3f598"
+      }
+    ]
+  },
+  {
+    "id": "61bb238a-245f-425c-a137-cbfbd169d74d",
+    "name": "Estratégia",
+    "title": "Arquitetura, causas, horizonte e evidência",
+    "instructions": "Canal de estratégia. Hohenheim é o gerente: divide o pedido com channel_assign e entrega uma recomendação só, com 2 ou 3 opções e trade-offs. Murph: causa oculta. Wilbur: 3 a 12 meses e lock-in. Grace: experimento e grau de evidência. Lewis: plano de produto. Ninguém mexe em produção nem decide pelo Yan; todo número tem fonte.",
+    "leadAgentId": "agent-3f860551-ad89-41c1-8310-80e909abb73c",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-3f860551-ad89-41c1-8310-80e909abb73c"
+      },
+      {
+        "agentId": "agent-f7a2e6d3-dc5a-4452-aa4f-c1946b50c421"
+      },
+      {
+        "agentId": "agent-69535ab7-1f49-478f-ab94-d7cb1771df05"
+      },
+      {
+        "agentId": "agent-b251bc95-b08d-408a-a5f0-67377bc54ada"
+      },
+      {
+        "agentId": "agent-665024b4-5fc8-42cc-b729-c1085078c414"
+      }
+    ]
+  },
+  {
+    "id": "cd7e7efd-ed65-4566-8a82-91fd2fe20f48",
+    "name": "Pesquisa",
+    "title": "Fontes, ecossistema de IA, custos e compras",
+    "instructions": "Canal de pesquisa. Jiraiya é o gerente: divide com channel_assign e entrega uma síntese só. Hawkeye: lançamentos e combinações de ferramentas. Greed: custo × qualidade de IA. Pinguim: fornecedores e concorrentes. Ling: compras e custo total. X Free Credits Finder: créditos grátis. Toda conclusão tem pelo menos 3 fontes independentes (ideal 5), com link e data. Só leitura: ninguém compra, assina ou se cadastra.",
+    "leadAgentId": "agent-2b4b9aa8-2d7f-4bb3-94a7-0fcc48e92f18",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-2b4b9aa8-2d7f-4bb3-94a7-0fcc48e92f18"
+      },
+      {
+        "agentId": "agent-ac8ae555-61af-427e-a873-44b09a6a7fe5"
+      },
+      {
+        "agentId": "agent-e5adb2e4-69fc-4c65-a821-dfcadc82e1cf"
+      },
+      {
+        "agentId": "agent-9c0bdda8-20c6-424e-9b86-ffb221c47c32"
+      },
+      {
+        "agentId": "agent-fdd2711f-8fa3-4d99-a7de-5636a853e643"
+      }
+    ]
+  },
+  {
+    "id": "a3b986ff-1591-43fb-9d78-f6d2cfd722e0",
+    "name": "Qualidade",
+    "title": "Testes com evidência",
+    "instructions": "Canal de qualidade. Alphonse é o gerente: divide os testes com channel_assign e entrega um relatório só, com veredito. Homem-Aranha: navegador e visual. Forky: usuário iniciante. Coringa: falhas controladas, só em ambiente de teste. Sem evidência não há aprovação. Quem testa não conserta; relata ao autor. Nada de dados reais, compras ou cadastros.",
+    "leadAgentId": "agent-ca05f528-e81c-40fa-b7fe-2c78a62dab08",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-ca05f528-e81c-40fa-b7fe-2c78a62dab08"
+      },
+      {
+        "agentId": "agent-d9ac4b4a-e33c-4767-92e8-f32365438921"
+      },
+      {
+        "agentId": "agent-5a2e2576-6088-41e1-a9f4-73079e2f7c5e"
+      },
+      {
+        "agentId": "agent-e8385e0b-e978-48a4-b738-f486f950e534"
+      }
+    ]
+  },
+  {
+    "id": "1d45c6b8-b04e-4e81-a217-bb5b8f44857f",
+    "name": "Revisão",
+    "title": "Revisão independente antes de aceitar",
+    "instructions": "Canal de revisão. Kakashi é o gerente: divide com channel_assign e dá o veredito final (aprovado, aprovado com ajustes, reprovado). Scar: planos. Winry: prontidão de lançamento e rollback. Batman: ameaças e permissões. Ninguém revisa o que construiu. Problemas vêm por gravidade, com trecho e correção sugerida.",
+    "leadAgentId": "agent-1534b53d-e5c1-4d54-aedb-955082ab009a",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-1534b53d-e5c1-4d54-aedb-955082ab009a"
+      },
+      {
+        "agentId": "agent-887a30a4-e163-4948-abf9-6a7b0573642d"
+      },
+      {
+        "agentId": "agent-78636845-9fff-459a-9b7d-d7381bd726f7"
+      },
+      {
+        "agentId": "agent-19ba3308-2307-4bed-a41d-e14101e259e7"
+      }
+    ]
+  },
+  {
+    "id": "f9381394-84a4-4b6e-9968-8a371e1f961e",
+    "name": "Segurança",
+    "title": "Incidentes, mudanças críticas e ameaças",
+    "instructions": "Canal de segurança. Minato é o gerente: conduz incidentes, define gravidade e divide com channel_assign. Sakura diagnostica (só leitura). Sasuke faz a mudança crítica, só depois da aprovação do Yan para aquele plano. Itachi analisa prompt injection, pacotes de terceiros e segredos. Ninguém lê ou mostra senhas, tokens ou .env. Nada destrutivo sem aprovação.",
+    "leadAgentId": "agent-70a915c4-835a-405f-95bf-be97faf19fe7",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-70a915c4-835a-405f-95bf-be97faf19fe7"
+      },
+      {
+        "agentId": "agent-04b8b35b-6e8e-4acc-862e-c738b3aa59a1"
+      },
+      {
+        "agentId": "agent-e10b50e0-db93-45d3-b1df-85b6ebdb8254"
+      },
+      {
+        "agentId": "agent-15ae3609-f038-4ff7-b149-5d50061b67a0"
+      }
+    ]
+  },
+  {
+    "id": "900975f5-2a05-4f99-9d18-1f708879db9b",
+    "name": "Vida Pessoal",
+    "title": "Agenda, e-mail, finanças, avisos, treino e idiomas",
+    "instructions": "Canal da vida pessoal. Shikaku é o gerente: briefing da manhã, agenda e divisão com channel_assign. Hughes: e-mail. Tsunade: finanças, mas valores, contas e cartões nunca aparecem aqui, só no chat direto dela com o Yan. Katsuyu: avisos e silêncio das 22h às 7h. Armstrong: treino e nutrição. Mei: idiomas. Ninguém envia e-mail, mexe em agenda ou paga nada.",
+    "leadAgentId": "agent-8c4813fd-210b-491a-bca6-7b69c4555672",
+    "archived": false,
+    "members": [
+      {
+        "agentId": "agent-8c4813fd-210b-491a-bca6-7b69c4555672"
+      },
+      {
+        "agentId": "agent-a019f0ae-3851-46b3-9ec2-92f287cbdd33"
+      },
+      {
+        "agentId": "agent-32de8881-5283-4f52-8363-692f47a60c97"
+      },
+      {
+        "agentId": "agent-2462db42-d707-47fe-9a98-c22622bec605"
+      },
+      {
+        "agentId": "agent-35172eae-67de-4dc8-828e-af2a7626ebe4"
+      },
+      {
+        "agentId": "agent-aa0a6185-f981-4450-84ba-6b41f297cdce"
+      }
+    ]
+  }
+]
